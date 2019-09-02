@@ -1,0 +1,18 @@
+[
+    {
+        "id" : "D01",
+        "name" : "Arts" 
+    },
+    {
+        "id" : "D02",
+        "name" : "Science" 
+    },
+    {
+        "id" : "D03",
+        "name" : "Maths" 
+    },
+    {
+        "id" : "D04",
+        "name" : "Geology"
+    }
+]
